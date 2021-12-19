@@ -1,0 +1,27 @@
+.product-img{
+    width: 200px;
+}
+
+.productitem{
+    border-bottom: 1px solid gray;
+    margin-right: 50px;
+    margin-left: 50px;
+    display: flex;
+}
+.product-div{
+    margin-top: 50px;
+}
+.product-btn{
+    padding: 8px 20px;
+    border-radius: 35px;
+    background-color: rgb(130, 173, 44);
+    color: white;
+    border: none;
+}
+.product-price{
+    color: rgb(130, 173, 44);
+}
+
+
+
+

@@ -1,0 +1,56 @@
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.info-header{
+    font-family: 'Lemonada';
+    color: rgb(133, 179, 42);
+}
+
+.info-main{
+    display: flex;
+}
+.info-div{
+    padding: 10px 30px;
+    background-color: red;
+    height: 130px;
+    width: 130px;
+    margin: 30px 30px;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.info-para{
+    margin: 10px 0px;
+    color: #333;
+    font-size: 18px;
+}
+
+.one{
+    background-color: rgb(212, 255, 125);
+}
+.two, .five{
+    background-color: rgb(255, 182, 255);
+}
+.three{
+    background-color: rgb(255, 225, 168);
+}
+.four, .six{
+    background-color: rgb(155, 243, 255);
+}
+
+@media (max-width: 1100px) {
+    .info-main{
+        display: none;
+    }
+}
+
+
+
+
+

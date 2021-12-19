@@ -1,0 +1,29 @@
+.sproduct{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.sproduct-header{
+    font-size: 28px;
+    color: rgb(130, 173, 44);
+    font-family: 'Lemonada', cursive;
+    margin-top: 20px;
+}
+.sproduct-para{
+    color: gray;
+}
+
+.productitema{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+@media (max-width: 768px) {
+    .productitema{
+        grid-template-columns: 1fr;
+    }
+}
+
+
+

@@ -1,0 +1,45 @@
+.add{
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin:0px 15px;
+}
+.add img{
+    width: 100%;
+    height: 100%;
+}
+.add-item{
+    position: absolute;
+    right: 20px;
+}
+
+.organic{
+    font-weight: 500;
+}
+.name{
+    font-family: 'Lemonada';
+    font-weight: 600;
+}
+.add-item button{
+    padding: 8px 24px;
+    border-radius: 35px;
+    border: none;
+    margin-top: 20px;
+    background-color: orange;
+    color: white;
+    font-weight: 600;
+}
+
+@media (max-width: 768px) {
+    .add{
+        display: block;
+    }
+    .add-item{
+        top: 20px;
+        z-index: 1;
+    }
+}
+
+
+
+

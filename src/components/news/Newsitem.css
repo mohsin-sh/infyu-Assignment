@@ -1,0 +1,35 @@
+.newsitem{
+    display: flex;
+    align-items: center;
+    width: 70%;
+}
+.newsitem img{
+    width: 200px;
+    border-radius: 10px;
+    margin: 10px;
+    margin-right: 20px;
+}
+.news-btn{
+    padding: 8px 20px;
+    border: none;
+    color: white;
+    font-weight: 600;
+    background-color: #82ad2c;
+    border-radius: 35px;
+    margin-top: 15px;
+}
+.news-title{
+    color: #6b990f;
+}
+
+@media (max-width: 1300px) {
+    .newsitem{
+        width: 500px;
+        justify-content: center;
+    }
+}
+@media (max-width: 500px) {
+    .newsitem{
+        width: 400px;
+    }
+}

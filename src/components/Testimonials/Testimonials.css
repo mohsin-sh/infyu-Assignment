@@ -1,0 +1,51 @@
+.testimonial{
+    background-image: url('https://cdn.shopify.com/s/files/1/0108/7370/0415/files/bg-2-1_d9a47a48-d8b0-4e62-b7ea-6729ed417f5f.jpg?v=1582285036');
+    width: 100vw;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    text-align: center;
+}
+.test-header{
+    font-size: 28px;
+    margin-top: 20px;
+    font-family: 'Lemonada', cursive;
+    color: rgb(130, 173, 44);
+}
+.test-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.test-info h3{
+    color: rgb(130, 173, 44);
+}
+.test-div{
+    width: 60vw;
+    background-color: white;
+    padding: 50px 50px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.image{
+    width: 100px;
+    border-radius: 50%;
+    margin: 0px 20px;
+}
+@media (max-width: 768px) {
+    .test-div{
+        width: 97vw;
+        margin-top: 20px;
+    }
+    .image{
+        width: 70px;
+    }
+}
+
+
+
+
+
