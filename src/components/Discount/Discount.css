@@ -1,6 +1,5 @@
 .discount{
-    background-image: url(http://groca.vedicthemes.com/image/catalog/groca/row-bg/bg-1.jpg
-    );
+    background-image: url(../../assets/discount.png);
     width: 100%;
     height: 500px;
     display: flex;

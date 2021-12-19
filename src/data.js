@@ -1,6 +1,6 @@
  const Products =  [
     {
-        imgurl:"http://groca.vedicthemes.com/image/cache/catalog/groca/products/shop-25-800x800.jpg",
+        imgurl:"https://5.imimg.com/data5/CH/OA/MY-2819324/fresh-broccoli-500x500.jpg",
         w1:"3kg",
         w2:"2kg",
         w3:"1kg",
@@ -8,7 +8,7 @@
         price:"$100.00",
     },
     {
-        imgurl:"http://groca.vedicthemes.com/image/cache/catalog/groca/products/shop-23-800x800.jpg",
+        imgurl:"https://www.bigbasket.com/media/uploads/p/xxl/40033819-2_6-fresho-apple-shimla.jpg",
         w1:"3kg",
         w2:"2kg",
         w3:"1kg",
@@ -16,7 +16,7 @@
         price:"$200.00",
     },
     {
-        imgurl:"http://groca.vedicthemes.com/image/cache/catalog/groca/products/shop-24-800x800.jpg",
+        imgurl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbtD8l882Nnu2c41rbCGNekMfo6YZlmmeIWsWLwdPv96ZP3V2e-iSDHC0IdCdtivRJ_ac&usqp=CAU",
         w1:"3kg",
         w2:"2kg",
         w3:"1kg",
@@ -24,7 +24,7 @@
         price:"$100.00",
     },
     {
-        imgurl:"http://groca.vedicthemes.com/image/cache/catalog/groca/products/shop-4-800x800.jpg",
+        imgurl:"https://images.unsplash.com/photo-1587486913049-53fc88980cfc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80",
         w1:"3kg",
         w2:"2kg",
         w3:"1kg",
@@ -32,7 +32,7 @@
         price:"$100.00",
     },
     {
-        imgurl:"http://groca.vedicthemes.com/image/cache/catalog/groca/products/shop-5-800x800.jpg",
+        imgurl:"https://3.imimg.com/data3/QQ/FP/GLADMIN-135878/boneless-chicken-500x500.jpg",
         w1:"3kg",
         w2:"2kg",
         w3:"1kg",
@@ -40,7 +40,7 @@
         price:"$100.00",
     },
     {
-        imgurl:"http://groca.vedicthemes.com/image/cache/catalog/groca/products/shop-14-800x800.jpg",
+        imgurl:"https://thumbs.dreamstime.com/b/chocolate-chips-cookies-white-background-chocolate-chips-cookies-white-background-119548950.jpg",
         w1:"3kg",
         w2:"2kg",
         w3:"1kg",
@@ -48,7 +48,7 @@
         price:"$100.00",
     },
     {
-        imgurl:"http://groca.vedicthemes.com/image/cache/catalog/groca/products/shop-12-800x800.jpg",
+        imgurl:"https://lush-greens.com/wp-content/uploads/2021/07/egg-Puff.jpg-5b8fa0f3695bd.jpg",
         w1:"3kg",
         w2:"2kg",
         w3:"1kg",
@@ -56,7 +56,7 @@
         price:"$100.00",
     },
     {
-        imgurl:"http://groca.vedicthemes.com/image/cache/catalog/groca/products/shop-22-800x800.jpg",
+        imgurl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbxTX8asq4xX144f9FhWbc5zYs9R34G4f2OtqSdbMZXIFjNsTGtD3xq91CLtnKjvuAwfk&usqp=CAU",
         w1:"3kg",
         w2:"2kg",
         w3:"1kg",
@@ -64,7 +64,7 @@
         price:"$100.00",
     },
     {
-        imgurl:"http://groca.vedicthemes.com/image/cache/catalog/groca/products/shop-17-800x800.jpg",
+        imgurl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhozZGpPIH3XprHmj3k2LPI4gPOrmKOFyi3A6bvwFnqfllTm7vmG5BpwIPGPGZGaer9E&usqp=CAU",
         w1:"3kg",
         w2:"2kg",
         w3:"1kg",
@@ -72,7 +72,7 @@
         price:"$100.00",
     },
     {
-        imgurl:"http://groca.vedicthemes.com/image/cache/catalog/groca/products/shop-19-800x800.jpg",
+        imgurl:"https://image.shutterstock.com/image-photo/upright-cookie-against-stack-double-260nw-61687759.jpg",
         w1:"3kg",
         w2:"2kg",
         w3:"1kg",
@@ -80,7 +80,7 @@
         price:"$100.00",
     },
     {
-        imgurl:"http://groca.vedicthemes.com/image/cache/catalog/groca/products/shop-15-800x800.jpg",
+        imgurl:"https://m.media-amazon.com/images/I/51fTQ4vqAjL._SX466_.jpg",
         w1:"3kg",
         w2:"2kg",
         w3:"1kg",
@@ -88,7 +88,7 @@
         price:"$100.00",
     },
     {
-        imgurl:"http://groca.vedicthemes.com/image/cache/catalog/groca/products/shop-6-800x800.jpg",
+        imgurl:"https://cdn.shopify.com/s/files/1/0532/0405/8272/products/spl-badam.jpg?v=1616404291",
         w1:"3kg",
         w2:"2kg",
         w3:"1kg",

@@ -10,6 +10,9 @@ import Info from "./components/info/Info";
 import News from "./components/news/News";
 import Sproduct from "./components/specialProduct/sproduct";
 import Testimonials from "./components/Testimonials/Testimonials";
+import Carrot from './assets/carrot.png'
+import Orange from './assets/orange.png'
+
 
 function App() {
   return (
@@ -20,8 +23,8 @@ function App() {
 
       {/* body */}
       <div className="add-component">
-        <Add image="http://groca.vedicthemes.com/image/catalog/groca/blocks/img-1.jpg" name="Veggies"/>
-        <Add image="http://groca.vedicthemes.com/image/catalog/groca/blocks/img-2.jpg" name="Fruits" />
+        <Add image={Carrot} name="Veggies"/>
+        <Add image={Orange} name="Fruits" />
       </div>
       <Info />
       <Card />

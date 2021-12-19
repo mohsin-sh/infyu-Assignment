@@ -6,7 +6,7 @@ const Header2 = () => {
         <div className="header2">
             <div className='container'>
                 <div className="header2-img">
-                    <img src="http://groca.vedicthemes.com/image/catalog/logo.png" alt="logo" />
+                    <img src="https://cdn.shopify.com/s/files/1/0108/7370/0415/files/logo-footer_x42@2x.png?v=1581488629" alt="logo" />
                 </div>
                 <div className="header2-nav">
                     <ul>
